@@ -3,6 +3,9 @@
 
 This is the course project branch for Exploratory Data Analysis
 
+ INSTRUCTIONS:
+ start with 'pull_and_subset.R' to pull data and create subset that is easier to work with and create each subsequent plot
+
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the "Individual household electric power consumption Data Set" which I have made available on the course web site:
 
 Dataset: Electric power consumption [20Mb]
@@ -27,5 +30,4 @@ The following descriptions of the 9 variables in the dataset are taken from the 
    
    Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-   INSTRUCTIONS:
- start with 'pull_and_subset.R' to pull data and create subset that is easier to work with and create each subsequent plot
+  
