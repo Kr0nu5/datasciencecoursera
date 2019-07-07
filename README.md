@@ -26,3 +26,6 @@ The following descriptions of the 9 variables in the dataset are taken from the 
    Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
    
    Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
+
+ ##Instructions
+ start with 'pull_and_subset.R' to pull data and create subset that is easier to work with and create each subsequent plot
